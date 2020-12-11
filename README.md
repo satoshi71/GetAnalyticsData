@@ -1,0 +1,2 @@
+# GetAnalyticsData
+Google Apps ScriptでAnalyticsデータをスプレッドシート上に展開する
